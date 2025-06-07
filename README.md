@@ -5,7 +5,9 @@ Develop a client-server system in C for indexing and searching text documents, u
 ## Group
 
 André Santos - andre-snts
+
 Daniel Parente - parente33
+
 Pedro Ferreira - pedro-ff
 
 ## Grade
