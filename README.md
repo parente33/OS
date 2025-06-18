@@ -4,11 +4,11 @@ Develop a client-server system in C for indexing and searching text documents, u
 
 ## Group
 
-André Santos - @andre-snts
+André Santos - [@andre-snts](https://github.com/andre-snts)
 
-Daniel Parente - @parente33
+Daniel Parente - [@parente33](https://github.com/parente33)
 
-Pedro Ferreira - @pedro-ff
+Pedro Ferreira - [@pedro-ff](https://github.com/pedro-ff)
 
 ## Grade
 
