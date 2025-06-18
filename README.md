@@ -4,13 +4,14 @@ Develop a client-server system in C for indexing and searching text documents, u
 
 ## Group
 
-André Santos - andre-snts
+André Santos - @andre-snts
 
-Daniel Parente - parente33
+Daniel Parente - @parente33
 
-Pedro Ferreira - pedro-ff
+Pedro Ferreira - @pedro-ff
 
 ## Grade
 
 12.05/20
+
 Note: Some of the requirements weren't fully met, while others were met through means not intended in this course unit. 
