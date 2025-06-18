@@ -13,3 +13,4 @@ Pedro Ferreira - pedro-ff
 ## Grade
 
 12.05/20
+Note: Some of the requirements weren't fully met, while others were met through means not intended in this course unit. 
